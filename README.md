@@ -1,6 +1,6 @@
 # Ruby Morse Code
 
-In this project you will learn how to use a module inside your class. For this you will create a class `MyList` and a module `MyEnumerable`. Your module `MyEnumerable` will implement a subset of the functionality of Enumerable.
+In this project you will learn how to use a module inside your class. For this the class `MyList` and a module `MyEnumerable`. The module `MyEnumerable` implements a subset of the functionality of Enumerable.
 
 ## Getting Started
    
@@ -10,7 +10,7 @@ In this project you will learn how to use a module inside your class. For this y
 
 2.- Inside the `enumerable.rb` file there is a module `MyEnumerable` that will implement a subset of the functionality of Enumerable.
 
-3.- Inside the `my_list.rb` file there is a class `MyList` that includes Enumerable, is initliazice with an array and has a method to outputs each elemnts of the array.
+3.- Inside the `my_list.rb` file, there is a class `MyList` that includes Enumerable: is initialize with an array and has a method to outputs each elements of the array.
 
 ## Authors
 
