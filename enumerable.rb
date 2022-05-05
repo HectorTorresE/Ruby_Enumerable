@@ -1,11 +1,13 @@
-class MyList 
-
-  def initialize(list) 
-    @list = list
+module MyEnumerable 
+  def all?  
+    { |item| true && yield(item) }
   end
 
-  def each(&block)
-    @list.each(&block)
-  end
 
+  def any?
+    { |item| }
+  end
+  def filter
+    {}
+  end
 end
